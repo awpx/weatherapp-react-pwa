@@ -18,6 +18,7 @@ const search = async (e) => {
 
   return (
     <div className='main-container'>
+      <h1>Enter City...</h1>
       <input 
         type='text'
         className='search'
